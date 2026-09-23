@@ -1,0 +1,7 @@
+name=input("enter employee details:")
+salary=input("enter employee salary:")
+company=input("enter company name:")
+print("----------- employee details---------")
+print("\n")
+print("name","salary","company")
+print(name,salary,company)
